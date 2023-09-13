@@ -8,7 +8,7 @@ Todo en un mismo lugar:
 ![kss_tech](https://github.com/karolgalindo02/kss_tech/assets/122057880/85f639c2-fa6c-41b5-bb00-99fdba9e0f0b)
 
 
-# Frontend en Apache NetBeans IDE 18 💻🔧
+# Frontend | Apache NetBeans IDE 18 💻🔧
 
 Login
 
